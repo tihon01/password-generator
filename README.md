@@ -1,3 +1,2 @@
-# password-generator
-Консольный генератор паролей.
-Для работы будем использовать редактор Visual Studio Code
+<h1 align="center"> password-generator</h1>
+<h3 align="center">Консольный генератор паролей</h2>
